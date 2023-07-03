@@ -7,6 +7,7 @@
 
 - [x] MQ5
 - [ ] Integration API GPT
+- [x] Trader/SymbolInfo
 
  ##
 
