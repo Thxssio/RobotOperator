@@ -5,7 +5,7 @@
 ***Robô operador na bolsa de valores.***
 
 
-- [x] MQ5
+- [x] MQL5
 - [ ] Integration API GPT
 - [x] Trader/SymbolInfo
 
